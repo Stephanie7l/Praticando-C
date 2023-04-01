@@ -1,6 +1,6 @@
 /*==============================================================================
-PRÁTICA 0 - EXERCÍCIO 0: Imprima "Alo mundo!" na tela
-Made by Stéphanie Pereira Barbosa 01/04/2023
+PRÁTICA 1 - EXERCÍCIO 1: Imprima "Alo mundo!" na tela
+Made by Stéphanie Pereira Barbosa on 01/04/2023
 ==============================================================================*/
 
 #include <stdio.h>
